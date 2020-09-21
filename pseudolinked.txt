@@ -1,6 +1,0 @@
-initialize linkedlist, optional value and next node parameters
-  @head = Node.new
-  @head.value = value
-  @tail = next_node
-end
-
